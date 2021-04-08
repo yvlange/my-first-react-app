@@ -1,3 +1,18 @@
 .App {
   text-align: center;
 }
+
+.Navigation {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.Main {
+  margin: 100px;
+}
+
+.Pic {
+  height: 50px;
+  width: 50px;
+}
